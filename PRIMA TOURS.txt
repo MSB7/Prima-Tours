@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html lang="fr ">
+<meta charset="UTF-8">
+	<title>Web Development</title>
+	<link rel="icon" href="https://scontent.ftun3-1.fna.fbcdn.net/v/t1.0-9/12391985_1091657390847146_2990491516725863619_n.jpg?_nc_cat=109&_nc_ht=scontent.ftun3-1.fna&oh=5e1767f74e4549331e9fbace77aa44d0&oe=5CFAF09D">
+    
